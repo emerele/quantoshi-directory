@@ -5,12 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  // Add basePath if you're not deploying to root domain
-  // basePath: '',
   assetPrefix: "/",
-  experimental: {
-    appDir: false,
-  },
+  // Removed experimental section
 };
 
 module.exports = nextConfig;
