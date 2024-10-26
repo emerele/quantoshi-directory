@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+  output: "export",
   images: {
     unoptimized: true,
   },
-  output: "export", // Add this for static site generation
+  trailingSlash: true,
+  // This will build HTML files with trailing slashes
+  // Making /category/market-data/ instead of /category/market-data
 };
 
 module.exports = nextConfig;
