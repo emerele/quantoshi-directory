@@ -1,0 +1,296 @@
+{
+  "features": [
+    {
+      "name": "Automated Trading Bots",
+      "subFeatures": [
+        {
+          "name": "DCA Bots",
+          "detailedOptions": [
+            "Fixed interval buying",
+            "Dynamic interval adjustment",
+            "Multiple pair support",
+            "Customizable volume scaling"
+          ]
+        },
+        {
+          "name": "Grid Trading Bots",
+          "detailedOptions": [
+            "Arithmetic grid",
+            "Geometric grid",
+            "Dynamic grid adjustment",
+            "Auto grid range detection"
+          ]
+        },
+        {
+          "name": "Smart Trading Bots",
+          "detailedOptions": [
+            "AI-powered trading",
+            "Machine learning optimization",
+            "Multi-strategy bots",
+            "Hybrid trading systems"
+          ]
+        },
+        {
+          "name": "Arbitrage Bots",
+          "detailedOptions": [
+            "CEX-CEX arbitrage",
+            "CEX-DEX arbitrage",
+            "Triangular arbitrage",
+            "Statistical arbitrage"
+          ]
+        },
+        {
+          "name": "Combo Bots",
+          "detailedOptions": [
+            "Grid-DCA hybrid",
+            "Multi-strategy combination",
+            "Custom strategy stacking",
+            "Strategy synchronization"
+          ]
+        },
+        {
+          "name": "HODL Bots",
+          "detailedOptions": [
+            "Long-term accumulation",
+            "Auto-rebalancing",
+            "Dollar-cost averaging",
+            "Position scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strategy Development",
+      "subFeatures": [
+        {
+          "name": "Visual Strategy Builder",
+          "detailedOptions": [
+            "Drag-and-drop interface",
+            "Custom indicator support",
+            "Strategy templates",
+            "Multi-timeframe strategies"
+          ]
+        },
+        {
+          "name": "Backtesting Engine",
+          "detailedOptions": [
+            "Historical data testing",
+            "Monte Carlo simulation",
+            "Walk-forward analysis",
+            "Multi-pair backtesting"
+          ]
+        },
+        {
+          "name": "Strategy Optimization",
+          "detailedOptions": [
+            "Parameter optimization",
+            "Genetic algorithms",
+            "Risk-adjusted optimization",
+            "Performance metrics analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Copy Trading",
+      "subFeatures": [
+        {
+          "name": "Signal Following",
+          "detailedOptions": [
+            "Manual copy trading",
+            "Automated copy trading",
+            "Partial copying",
+            "Risk-adjusted copying"
+          ]
+        },
+        {
+          "name": "Performance Analytics",
+          "detailedOptions": [
+            "Trader performance metrics",
+            "Risk analysis",
+            "Track record verification",
+            "Profitability statistics"
+          ]
+        },
+        {
+          "name": "Social Features",
+          "detailedOptions": [
+            "Trader rankings",
+            "Community discussions",
+            "Strategy sharing",
+            "Performance verification"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Order Types",
+      "subFeatures": [
+        {
+          "name": "Conditional Orders",
+          "detailedOptions": [
+            "OCO (One Cancels Other)",
+            "One Triggers Other (OTO)",
+            "TWAP orders",
+            "VWAP orders"
+          ]
+        },
+        {
+          "name": "Stop Orders",
+          "detailedOptions": [
+            "Trailing stop-loss",
+            "Dynamic stop-loss",
+            "Time-based stops",
+            "Volume-based stops"
+          ]
+        },
+        {
+          "name": "Smart Orders",
+          "detailedOptions": [
+            "Iceberg orders",
+            "Scaled orders",
+            "Smart route execution",
+            "Anti-frontrunning protection"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Risk Management",
+      "subFeatures": [
+        {
+          "name": "Position Management",
+          "detailedOptions": [
+            "Auto position sizing",
+            "Portfolio balancing",
+            "Exposure limits",
+            "Correlation-based limits"
+          ]
+        },
+        {
+          "name": "Loss Prevention",
+          "detailedOptions": [
+            "Stop-loss automation",
+            "Drawdown protection",
+            "Circuit breakers",
+            "Flash crash protection"
+          ]
+        },
+        {
+          "name": "Risk Metrics",
+          "detailedOptions": [
+            "Value at Risk (VaR)",
+            "Risk/reward ratios",
+            "Maximum drawdown",
+            "Sharpe ratio calculation"
+          ]
+        },
+        {
+          "name": "Position Monitoring",
+          "detailedOptions": [
+            "Real-time position tracking",
+            "Margin level monitoring",
+            "Liquidation price alerts",
+            "Position heat map"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exchange Integration",
+      "subFeatures": [
+        {
+          "name": "Multi-Exchange Support",
+          "detailedOptions": [
+            "API key management",
+            "Universal order types",
+            "Cross-exchange execution",
+            "Balance aggregation"
+          ]
+        },
+        {
+          "name": "Order Routing",
+          "detailedOptions": [
+            "Smart order routing",
+            "Best price execution",
+            "Liquidity aggregation",
+            "Slippage protection"
+          ]
+        },
+        {
+          "name": "Account Management",
+          "detailedOptions": [
+            "Sub-account support",
+            "API key rotation",
+            "Security features",
+            "Rate limit management"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trading Interface",
+      "subFeatures": [
+        {
+          "name": "Chart Trading",
+          "detailedOptions": [
+            "One-click trading",
+            "Chart-based orders",
+            "Visual position management",
+            "Multi-chart layouts"
+          ]
+        },
+        {
+          "name": "Order Book Trading",
+          "detailedOptions": [
+            "Depth chart trading",
+            "Level 2 data integration",
+            "Volume profile trading",
+            "Liquidity analysis"
+          ]
+        },
+        {
+          "name": "Mobile Trading",
+          "detailedOptions": [
+            "Mobile alerts",
+            "Mobile order execution",
+            "Portfolio monitoring",
+            "Push notifications"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strategy Testing",
+      "subFeatures": [
+        {
+          "name": "Paper Trading",
+          "detailedOptions": [
+            "Real-time data simulation",
+            "Historical simulation",
+            "Multiple account types",
+            "Strategy testing"
+          ]
+        },
+        {
+          "name": "Performance Analysis",
+          "detailedOptions": [
+            "Trade history analysis",
+            "Performance metrics",
+            "Strategy comparison",
+            "Risk assessment tools"
+          ]
+        },
+        {
+          "name": "Webhook Integration",
+          "detailedOptions": [
+            "Custom API endpoints",
+            "External signal processing",
+            "Automated triggers",
+            "Third-party integrations"
+          ]
+        }
+      ]
+    }
+  ]
+}

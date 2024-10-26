@@ -1,0 +1,256 @@
+{
+  "features": [
+    {
+      "name": "Multi-Asset Portfolio Tracking",
+      "subFeatures": [
+        {
+          "name": "Asset Coverage",
+          "detailedOptions": [
+            "Cryptocurrency tracking",
+            "NFT portfolio tracking",
+            "DeFi positions tracking",
+            "Staking positions"
+          ]
+        },
+        {
+          "name": "Exchange Integration",
+          "detailedOptions": [
+            "CEX integration",
+            "DEX integration",
+            "Wallet integration",
+            "Cross-chain tracking"
+          ]
+        },
+        {
+          "name": "Performance Analytics",
+          "detailedOptions": [
+            "Real-time portfolio value",
+            "Historical performance",
+            "Asset allocation analysis",
+            "Portfolio rebalancing tools"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asset Analytics",
+      "subFeatures": [
+        {
+          "name": "Token Analytics",
+          "detailedOptions": [
+            "Price history analysis",
+            "Volume analysis",
+            "Market cap tracking",
+            "Token distribution"
+          ]
+        },
+        {
+          "name": "NFT Analytics",
+          "detailedOptions": [
+            "Floor price tracking",
+            "Rarity analysis",
+            "Collection statistics",
+            "Trading volume metrics"
+          ]
+        },
+        {
+          "name": "DeFi Analytics",
+          "detailedOptions": [
+            "Yield farming positions",
+            "Liquidity pool positions",
+            "Lending positions",
+            "Borrowing positions"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tax Management",
+      "subFeatures": [
+        {
+          "name": "Transaction Tracking",
+          "detailedOptions": [
+            "Automated import",
+            "Manual transaction entry",
+            "Missing transaction detection",
+            "Transaction categorization"
+          ]
+        },
+        {
+          "name": "Cost Basis Methods",
+          "detailedOptions": [
+            "FIFO (First In, First Out)",
+            "LIFO (Last In, First Out)",
+            "HIFO (Highest In, First Out)",
+            "Average cost basis"
+          ]
+        },
+        {
+          "name": "Tax Reporting",
+          "detailedOptions": [
+            "Tax form generation",
+            "Capital gains calculation",
+            "Income tax reporting",
+            "Tax loss harvesting"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Risk Analytics",
+      "subFeatures": [
+        {
+          "name": "Portfolio Risk Metrics",
+          "detailedOptions": [
+            "Volatility analysis",
+            "Correlation tracking",
+            "Value at Risk (VaR)",
+            "Maximum drawdown"
+          ]
+        },
+        {
+          "name": "Diversification Analysis",
+          "detailedOptions": [
+            "Asset concentration",
+            "Geographic exposure",
+            "Protocol exposure",
+            "Network exposure"
+          ]
+        },
+        {
+          "name": "Market Risk Analysis",
+          "detailedOptions": [
+            "Market beta calculation",
+            "Systematic risk analysis",
+            "Idiosyncratic risk",
+            "Stress testing"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Investment Analytics",
+      "subFeatures": [
+        {
+          "name": "ROI Tracking",
+          "detailedOptions": [
+            "Overall portfolio ROI",
+            "Asset-specific ROI",
+            "Time-weighted returns",
+            "Money-weighted returns"
+          ]
+        },
+        {
+          "name": "Performance Attribution",
+          "detailedOptions": [
+            "Asset contribution analysis",
+            "Strategy performance",
+            "Benchmark comparison",
+            "Attribution analysis"
+          ]
+        },
+        {
+          "name": "Cost Analysis",
+          "detailedOptions": [
+            "Trading fee analysis",
+            "Gas fee tracking",
+            "Slippage analysis",
+            "Cost optimization suggestions"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Optimization",
+      "subFeatures": [
+        {
+          "name": "Rebalancing Tools",
+          "detailedOptions": [
+            "Automated rebalancing",
+            "Threshold-based rebalancing",
+            "Tax-efficient rebalancing",
+            "Custom rebalancing rules"
+          ]
+        },
+        {
+          "name": "Strategy Implementation",
+          "detailedOptions": [
+            "Portfolio weightings",
+            "Asset allocation models",
+            "Risk-adjusted optimization",
+            "Factor-based investing"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reporting & Exports",
+      "subFeatures": [
+        {
+          "name": "Custom Reports",
+          "detailedOptions": [
+            "Performance reports",
+            "Tax reports",
+            "Risk analysis reports",
+            "Audit reports"
+          ]
+        },
+        {
+          "name": "Data Exports",
+          "detailedOptions": [
+            "CSV exports",
+            "API integration",
+            "Excel compatibility",
+            "PDF generation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security & Access",
+      "subFeatures": [
+        {
+          "name": "Access Control",
+          "detailedOptions": [
+            "Multi-user access",
+            "Role-based permissions",
+            "API key management",
+            "2FA authentication"
+          ]
+        },
+        {
+          "name": "Data Protection",
+          "detailedOptions": [
+            "End-to-end encryption",
+            "Secure data storage",
+            "Regular backups",
+            "Privacy settings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mobile Access",
+      "subFeatures": [
+        {
+          "name": "Portfolio Monitoring",
+          "detailedOptions": [
+            "Real-time updates",
+            "Push notifications",
+            "Performance alerts",
+            "Market alerts"
+          ]
+        },
+        {
+          "name": "Transaction Management",
+          "detailedOptions": [
+            "Mobile transaction entry",
+            "Receipt capture",
+            "Transaction editing",
+            "Quick actions"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "features": [
+    {
+      "name": "Market Research",
+      "subFeatures": [
+        {
+          "name": "Fundamental Analysis",
+          "detailedOptions": [
+            "Project evaluation reports",
+            "Team background analysis",
+            "Technology assessment",
+            "Competitive analysis"
+          ]
+        },
+        {
+          "name": "Token Economics",
+          "detailedOptions": [
+            "Token distribution analysis",
+            "Vesting schedules",
+            "Supply metrics",
+            "Unlock events tracking"
+          ]
+        },
+        {
+          "name": "Industry Analysis",
+          "detailedOptions": [
+            "Sector performance",
+            "Market trends",
+            "Adoption metrics",
+            "Regulatory impact analysis"
+          ]
+        },
+        {
+          "name": "Investment Research",
+          "detailedOptions": [
+            "Price predictions",
+            "Risk assessments",
+            "Investment theses",
+            "Valuation models"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technical Research",
+      "subFeatures": [
+        {
+          "name": "Chart Analysis",
+          "detailedOptions": [
+            "Pattern identification",
+            "Support/resistance levels",
+            "Volume analysis",
+            "Momentum studies"
+          ]
+        },
+        {
+          "name": "Indicator Research",
+          "detailedOptions": [
+            "Custom indicator development",
+            "Indicator combinations",
+            "Backtesting results",
+            "Performance metrics"
+          ]
+        },
+        {
+          "name": "Strategy Research",
+          "detailedOptions": [
+            "Trading strategy analysis",
+            "Historical performance",
+            "Risk-adjusted returns",
+            "Market condition analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Educational Resources",
+      "subFeatures": [
+        {
+          "name": "Trading Education",
+          "detailedOptions": [
+            "Basic trading concepts",
+            "Advanced trading strategies",
+            "Risk management principles",
+            "Psychology of trading"
+          ]
+        },
+        {
+          "name": "Technical Analysis",
+          "detailedOptions": [
+            "Chart pattern recognition",
+            "Indicator usage",
+            "Technical tools mastery",
+            "Trade setup identification"
+          ]
+        },
+        {
+          "name": "Crypto Fundamentals",
+          "detailedOptions": [
+            "Blockchain technology",
+            "Cryptocurrency basics",
+            "DeFi principles",
+            "NFT fundamentals"
+          ]
+        },
+        {
+          "name": "Market Mechanics",
+          "detailedOptions": [
+            "Order types explanation",
+            "Market structure",
+            "Liquidity dynamics",
+            "Price formation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community Learning",
+      "subFeatures": [
+        {
+          "name": "Discussion Forums",
+          "detailedOptions": [
+            "Topic-based discussions",
+            "Q&A sections",
+            "Expert forums",
+            "Peer support"
+          ]
+        },
+        {
+          "name": "Social Trading",
+          "detailedOptions": [
+            "Strategy sharing",
+            "Performance tracking",
+            "Trade copying",
+            "Risk management sharing"
+          ]
+        },
+        {
+          "name": "Live Events",
+          "detailedOptions": [
+            "Webinars",
+            "AMAs (Ask Me Anything)",
+            "Trading competitions",
+            "Community meetups"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Professional Development",
+      "subFeatures": [
+        {
+          "name": "Certification Programs",
+          "detailedOptions": [
+            "Trading certification",
+            "Technical analysis certification",
+            "Risk management certification",
+            "DeFi certification"
+          ]
+        },
+        {
+          "name": "Mentorship Programs",
+          "detailedOptions": [
+            "One-on-one coaching",
+            "Group mentoring",
+            "Expert guidance",
+            "Performance review"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Content Library",
+      "subFeatures": [
+        {
+          "name": "Educational Videos",
+          "detailedOptions": [
+            "Tutorial series",
+            "Strategy guides",
+            "Market analysis",
+            "Tool usage guides"
+          ]
+        },
+        {
+          "name": "Written Content",
+          "detailedOptions": [
+            "Articles",
+            "Research papers",
+            "Strategy documents",
+            "Case studies"
+          ]
+        },
+        {
+          "name": "Interactive Content",
+          "detailedOptions": [
+            "Quizzes",
+            "Trading simulations",
+            "Interactive tutorials",
+            "Practice exercises"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research Tools",
+      "subFeatures": [
+        {
+          "name": "Screening Tools",
+          "detailedOptions": [
+            "Market screeners",
+            "Token screeners",
+            "Project screeners",
+            "Strategy screeners"
+          ]
+        },
+        {
+          "name": "Analysis Tools",
+          "detailedOptions": [
+            "Comparison tools",
+            "Correlation analysis",
+            "Performance analytics",
+            "Risk assessment tools"
+          ]
+        },
+        {
+          "name": "Research Database",
+          "detailedOptions": [
+            "Historical data",
+            "Project information",
+            "Market events",
+            "Research reports"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regulatory Education",
+      "subFeatures": [
+        {
+          "name": "Compliance Training",
+          "detailedOptions": [
+            "KYC/AML guidelines",
+            "Regulatory frameworks",
+            "Trading regulations",
+            "Tax compliance"
+          ]
+        },
+        {
+          "name": "Risk Disclosure",
+          "detailedOptions": [
+            "Risk warnings",
+            "Legal requirements",
+            "Trading limitations",
+            "Jurisdictional restrictions"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI-Powered Learning",
+      "subFeatures": [
+        {
+          "name": "Personalized Learning",
+          "detailedOptions": [
+            "Custom learning paths",
+            "Progress tracking",
+            "Adaptive content",
+            "Performance assessment"
+          ]
+        },
+        {
+          "name": "AI Research Tools",
+          "detailedOptions": [
+            "Pattern recognition",
+            "Trend analysis",
+            "Sentiment analysis",
+            "Market prediction"
+          ]
+        }
+      ]
+    }
+  ]
+}

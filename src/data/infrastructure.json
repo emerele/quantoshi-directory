@@ -1,0 +1,283 @@
+{
+  "features": [
+    {
+      "name": "Node Infrastructure",
+      "subFeatures": [
+        {
+          "name": "Node Management",
+          "detailedOptions": [
+            "Node deployment",
+            "Node monitoring",
+            "Health checks",
+            "Performance optimization"
+          ]
+        },
+        {
+          "name": "Network Types",
+          "detailedOptions": [
+            "Mainnet nodes",
+            "Testnet nodes",
+            "Private networks",
+            "Layer 2 nodes"
+          ]
+        },
+        {
+          "name": "Service Level",
+          "detailedOptions": [
+            "Shared nodes",
+            "Dedicated nodes",
+            "Archive nodes",
+            "Light nodes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "API Services",
+      "subFeatures": [
+        {
+          "name": "REST APIs",
+          "detailedOptions": [
+            "Market data endpoints",
+            "Trading endpoints",
+            "Blockchain data endpoints",
+            "Historical data access"
+          ]
+        },
+        {
+          "name": "WebSocket APIs",
+          "detailedOptions": [
+            "Real-time data streams",
+            "Market data feeds",
+            "Order book updates",
+            "Trade notifications"
+          ]
+        },
+        {
+          "name": "Custom Solutions",
+          "detailedOptions": [
+            "Enterprise APIs",
+            "Custom endpoints",
+            "Rate limiting options",
+            "SLA guarantees"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "subFeatures": [
+        {
+          "name": "Smart Contract Development",
+          "detailedOptions": [
+            "Contract templates",
+            "Testing frameworks",
+            "Deployment tools",
+            "Security analysis tools"
+          ]
+        },
+        {
+          "name": "Bot Development",
+          "detailedOptions": [
+            "Strategy development kits",
+            "Backtesting frameworks",
+            "Bot templates",
+            "Performance monitoring"
+          ]
+        },
+        {
+          "name": "Integration Tools",
+          "detailedOptions": [
+            "Exchange connectors",
+            "Wallet integration",
+            "Payment processors",
+            "Chain bridges"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Infrastructure",
+      "subFeatures": [
+        {
+          "name": "Data Storage",
+          "detailedOptions": [
+            "Distributed storage",
+            "IPFS integration",
+            "Database solutions",
+            "Redundancy management"
+          ]
+        },
+        {
+          "name": "Data Processing",
+          "detailedOptions": [
+            "Real-time processing",
+            "Batch processing",
+            "Stream processing",
+            "Data transformation"
+          ]
+        },
+        {
+          "name": "Data Analytics",
+          "detailedOptions": [
+            "Analytics engines",
+            "Query tools",
+            "Visualization tools",
+            "Custom metrics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security Tools",
+      "subFeatures": [
+        {
+          "name": "Smart Contract Security",
+          "detailedOptions": [
+            "Audit tools",
+            "Vulnerability scanners",
+            "Monitoring tools",
+            "Bug bounty platforms"
+          ]
+        },
+        {
+          "name": "Infrastructure Security",
+          "detailedOptions": [
+            "DDoS protection",
+            "Access control",
+            "Key management",
+            "Encryption tools"
+          ]
+        },
+        {
+          "name": "Compliance Tools",
+          "detailedOptions": [
+            "KYC integration",
+            "AML screening",
+            "Transaction monitoring",
+            "Regulatory reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Development Frameworks",
+      "subFeatures": [
+        {
+          "name": "Web3 Frameworks",
+          "detailedOptions": [
+            "Frontend frameworks",
+            "Backend frameworks",
+            "Smart contract frameworks",
+            "Testing frameworks"
+          ]
+        },
+        {
+          "name": "Trading Frameworks",
+          "detailedOptions": [
+            "Strategy frameworks",
+            "Exchange connectors",
+            "Order management",
+            "Risk management"
+          ]
+        },
+        {
+          "name": "Analytics Frameworks",
+          "detailedOptions": [
+            "Data analysis tools",
+            "Machine learning frameworks",
+            "Visualization libraries",
+            "Custom metrics tools"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Documentation & Support",
+      "subFeatures": [
+        {
+          "name": "API Documentation",
+          "detailedOptions": [
+            "Reference docs",
+            "Integration guides",
+            "Code examples",
+            "API changelog"
+          ]
+        },
+        {
+          "name": "Technical Support",
+          "detailedOptions": [
+            "Developer support",
+            "Community forums",
+            "Knowledge base",
+            "Issue tracking"
+          ]
+        },
+        {
+          "name": "Resources",
+          "detailedOptions": [
+            "SDKs",
+            "Libraries",
+            "Sample code",
+            "Best practices"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Environment",
+      "subFeatures": [
+        {
+          "name": "Test Networks",
+          "detailedOptions": [
+            "Public testnets",
+            "Private testnets",
+            "Local development",
+            "Sandbox environments"
+          ]
+        },
+        {
+          "name": "Testing Tools",
+          "detailedOptions": [
+            "Unit testing",
+            "Integration testing",
+            "Load testing",
+            "Performance testing"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monitoring & Analytics",
+      "subFeatures": [
+        {
+          "name": "Infrastructure Monitoring",
+          "detailedOptions": [
+            "Network monitoring",
+            "Performance metrics",
+            "Resource usage",
+            "Alert systems"
+          ]
+        },
+        {
+          "name": "Application Monitoring",
+          "detailedOptions": [
+            "Error tracking",
+            "User analytics",
+            "Performance profiling",
+            "Log management"
+          ]
+        },
+        {
+          "name": "Custom Metrics",
+          "detailedOptions": [
+            "Business metrics",
+            "Technical metrics",
+            "Custom dashboards",
+            "Reporting tools"
+          ]
+        }
+      ]
+    }
+  ]
+}

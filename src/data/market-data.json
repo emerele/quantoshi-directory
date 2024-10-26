@@ -1,0 +1,217 @@
+{
+  "features": [
+    {
+      "name": "Real-time Price Tracking",
+      "subFeatures": [
+        {
+          "name": "Multiple Exchange Support",
+          "detailedOptions": [
+            "CEX price aggregation",
+            "DEX price aggregation",
+            "Cross-exchange arbitrage monitoring"
+          ]
+        },
+        {
+          "name": "Customizable Price Alerts",
+          "detailedOptions": [
+            "Price target alerts",
+            "Percentage change alerts",
+            "Volume spike alerts"
+          ]
+        },
+        {
+          "name": "Historical Data",
+          "detailedOptions": [
+            "OHLCV data",
+            "Trade history",
+            "Volume analysis",
+            "Tick-by-tick data"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "On-chain Analytics",
+      "subFeatures": [
+        {
+          "name": "Transaction Monitoring",
+          "detailedOptions": [
+            "Large transaction alerts",
+            "Transaction flow visualization",
+            "MEV tracking",
+            "Liquidity flow analysis"
+          ]
+        },
+        {
+          "name": "Wallet Profiling",
+          "detailedOptions": [
+            "Wallet balance tracking",
+            "Wallet activity analysis",
+            "Smart money tracking",
+            "Whale alert system"
+          ]
+        },
+        {
+          "name": "Smart Contract Analysis",
+          "detailedOptions": [
+            "Contract code verification",
+            "Contract interaction tracking",
+            "Protocol metrics",
+            "Risk scoring"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DeFi & Protocol Analytics",
+      "subFeatures": [
+        {
+          "name": "Protocol Performance",
+          "detailedOptions": [
+            "TVL tracking",
+            "Volume analysis",
+            "User metrics",
+            "Market share analysis"
+          ]
+        },
+        {
+          "name": "Yield Analytics",
+          "detailedOptions": [
+            "APY/APR tracking",
+            "Impermanent loss calculator",
+            "Risk assessment",
+            "Pool performance metrics"
+          ]
+        },
+        {
+          "name": "Governance Analytics",
+          "detailedOptions": [
+            "Proposal tracking",
+            "Voting analysis",
+            "Treasury management",
+            "DAO participation metrics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cross-Chain Analytics",
+      "subFeatures": [
+        {
+          "name": "Bridge Monitoring",
+          "detailedOptions": [
+            "Volume tracking",
+            "TVL analysis",
+            "Security status",
+            "Cross-chain flow visualization"
+          ]
+        },
+        {
+          "name": "Network Comparison",
+          "detailedOptions": [
+            "Gas fees",
+            "Transaction speed",
+            "User activity",
+            "Network health metrics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technical Analysis Tools",
+      "subFeatures": [
+        {
+          "name": "Customizable Charts",
+          "detailedOptions": [
+            "Multiple timeframes",
+            "Drawing tools",
+            "Layout customization",
+            "Multi-chart view"
+          ]
+        },
+        {
+          "name": "Technical Indicators",
+          "detailedOptions": [
+            "Moving averages",
+            "RSI/MACD",
+            "Custom indicator builder",
+            "Volume-based indicators"
+          ]
+        },
+        {
+          "name": "Pattern Recognition",
+          "detailedOptions": [
+            "Candlestick patterns",
+            "Chart formations",
+            "Algorithmic pattern detection",
+            "Support/resistance levels"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Market Sentiment Analysis",
+      "subFeatures": [
+        {
+          "name": "Social Media Monitoring",
+          "detailedOptions": [
+            "Twitter sentiment analysis",
+            "Reddit discussion tracking",
+            "Discord/Telegram monitoring",
+            "Social engagement metrics"
+          ]
+        },
+        {
+          "name": "News Aggregation",
+          "detailedOptions": [
+            "Crypto news feeds",
+            "News impact analysis",
+            "Breaking news alerts",
+            "Custom news filtering"
+          ]
+        },
+        {
+          "name": "Market Metrics",
+          "detailedOptions": [
+            "Fear & Greed Index",
+            "Trending topics",
+            "Community sentiment score",
+            "Social volume analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Services",
+      "subFeatures": [
+        {
+          "name": "Raw Data Feeds",
+          "detailedOptions": [
+            "Exchange data",
+            "On-chain data",
+            "News data",
+            "Social media data"
+          ]
+        },
+        {
+          "name": "API Services",
+          "detailedOptions": [
+            "WebSocket feeds",
+            "REST APIs",
+            "Historical data access",
+            "Custom endpoints"
+          ]
+        },
+        {
+          "name": "Enterprise Solutions",
+          "detailedOptions": [
+            "Custom data feeds",
+            "Research data packages",
+            "Institutional-grade data",
+            "Compliance reporting"
+          ]
+        }
+      ]
+    }
+  ]
+}
