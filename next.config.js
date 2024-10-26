@@ -5,8 +5,11 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  assetPrefix: "/",
-  // Removed experimental section
+  basePath: "",
+  assetPrefix: "",
+  reactStrictMode: true,
+  distDir: "out",
+  cleanDistDir: true,
 };
 
 module.exports = nextConfig;
