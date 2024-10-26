@@ -22,8 +22,5 @@
     "@netlify/plugin-nextjs": "^4.41.2",
     "eslint": "^8.54.0",
     "eslint-config-next": "14.0.3"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
