@@ -4,12 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  assetPrefix: "./", // Add this line
   trailingSlash: true,
-  basePath: "",
-  assetPrefix: "",
   reactStrictMode: true,
-  distDir: "out",
-  cleanDistDir: true,
 };
-
 module.exports = nextConfig;

@@ -1,0 +1,2129 @@
+{
+  "name": ".",
+  "type": "directory",
+  "contents": [
+    {
+      "name": ".DS_Store",
+      "type": "file",
+      "extension": null,
+      "relative_path": ".DS_Store",
+      "metadata": {
+        "size_bytes": 6148,
+        "last_modified": "2024-10-26T22:17:15.817793",
+        "created": "2024-10-26T22:17:15.817793",
+        "is_binary": true
+      }
+    },
+    {
+      "name": ".eslintrc.json",
+      "type": "file",
+      "extension": "json",
+      "relative_path": ".eslintrc.json",
+      "metadata": {
+        "size_bytes": 149,
+        "last_modified": "2024-10-26T23:17:26.488371",
+        "created": "2024-10-26T23:17:26.488371",
+        "is_binary": false
+      }
+    },
+    {
+      "name": ".git",
+      "type": "directory",
+      "contents": []
+    },
+    {
+      "name": ".gitignore",
+      "type": "file",
+      "extension": null,
+      "relative_path": ".gitignore",
+      "metadata": {
+        "size_bytes": 281,
+        "last_modified": "2024-10-26T22:22:36.975473",
+        "created": "2024-10-26T22:22:36.975473",
+        "is_binary": false
+      }
+    },
+    {
+      "name": ".next",
+      "type": "directory",
+      "contents": [
+        {
+          "name": "BUILD_ID",
+          "type": "file",
+          "extension": null,
+          "relative_path": ".next/BUILD_ID",
+          "metadata": {
+            "size_bytes": 21,
+            "last_modified": "2024-10-26T23:32:10.493880",
+            "created": "2024-10-26T23:32:10.493880",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "build-manifest.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/build-manifest.json",
+          "metadata": {
+            "size_bytes": 1648,
+            "last_modified": "2024-10-26T23:32:10.231630",
+            "created": "2024-10-26T23:32:10.231630",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "cache",
+          "type": "directory",
+          "contents": [
+            {
+              "name": ".tsbuildinfo",
+              "type": "file",
+              "extension": null,
+              "relative_path": ".next/cache/.tsbuildinfo",
+              "metadata": {
+                "size_bytes": 152124,
+                "last_modified": "2024-10-26T23:32:07.760805",
+                "created": "2024-10-26T23:32:07.760805",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "eslint",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": ".cache_1fk6riq",
+                  "type": "file",
+                  "extension": null,
+                  "relative_path": ".next/cache/eslint/.cache_1fk6riq",
+                  "metadata": {
+                    "size_bytes": 4321,
+                    "last_modified": "2024-10-26T23:32:07.866196",
+                    "created": "2024-10-26T23:32:07.866196",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "swc",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "plugins",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "v7_macos_aarch64_0.104.14",
+                      "type": "directory",
+                      "contents": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "webpack",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "client-production",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "0.pack",
+                      "type": "file",
+                      "extension": "pack",
+                      "relative_path": ".next/cache/webpack/client-production/0.pack",
+                      "metadata": {
+                        "size_bytes": 6409187,
+                        "last_modified": "2024-10-26T23:32:10.358986",
+                        "created": "2024-10-26T23:32:10.359843",
+                        "is_binary": true
+                      }
+                    },
+                    {
+                      "name": "index.pack",
+                      "type": "file",
+                      "extension": "pack",
+                      "relative_path": ".next/cache/webpack/client-production/index.pack",
+                      "metadata": {
+                        "size_bytes": 892411,
+                        "last_modified": "2024-10-26T23:32:10.358455",
+                        "created": "2024-10-26T23:32:10.360183",
+                        "is_binary": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "server-production",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "0.pack",
+                      "type": "file",
+                      "extension": "pack",
+                      "relative_path": ".next/cache/webpack/server-production/0.pack",
+                      "metadata": {
+                        "size_bytes": 5080584,
+                        "last_modified": "2024-10-26T23:32:09.753720",
+                        "created": "2024-10-26T23:32:09.754313",
+                        "is_binary": true
+                      }
+                    },
+                    {
+                      "name": "index.pack",
+                      "type": "file",
+                      "extension": "pack",
+                      "relative_path": ".next/cache/webpack/server-production/index.pack",
+                      "metadata": {
+                        "size_bytes": 447246,
+                        "last_modified": "2024-10-26T23:32:09.752928",
+                        "created": "2024-10-26T23:32:09.754894",
+                        "is_binary": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "export-detail.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/export-detail.json",
+          "metadata": {
+            "size_bytes": 119,
+            "last_modified": "2024-10-26T23:32:12.632057",
+            "created": "2024-10-26T23:32:12.632057",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "export-marker.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/export-marker.json",
+          "metadata": {
+            "size_bytes": 93,
+            "last_modified": "2024-10-26T23:32:11.326538",
+            "created": "2024-10-26T23:32:11.326538",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "images-manifest.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/images-manifest.json",
+          "metadata": {
+            "size_bytes": 511,
+            "last_modified": "2024-10-26T23:32:11.280120",
+            "created": "2024-10-26T23:32:11.280120",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "next-minimal-server.js.nft.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/next-minimal-server.js.nft.json",
+          "metadata": {
+            "size_bytes": 3939,
+            "last_modified": "2024-10-26T23:32:13.747743",
+            "created": "2024-10-26T23:32:13.747743",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "next-server.js.nft.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/next-server.js.nft.json",
+          "metadata": {
+            "size_bytes": 26466,
+            "last_modified": "2024-10-26T23:32:13.747920",
+            "created": "2024-10-26T23:32:13.747920",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "package.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/package.json",
+          "metadata": {
+            "size_bytes": 20,
+            "last_modified": "2024-10-26T23:32:07.985624",
+            "created": "2024-10-26T23:32:07.985624",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "prerender-manifest.js",
+          "type": "file",
+          "extension": "js",
+          "relative_path": ".next/prerender-manifest.js",
+          "metadata": {
+            "size_bytes": 1472,
+            "last_modified": "2024-10-26T23:32:11.269592",
+            "created": "2024-10-26T23:32:11.269592",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "prerender-manifest.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/prerender-manifest.json",
+          "metadata": {
+            "size_bytes": 1342,
+            "last_modified": "2024-10-26T23:32:11.263041",
+            "created": "2024-10-26T23:32:11.263041",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "react-loadable-manifest.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/react-loadable-manifest.json",
+          "metadata": {
+            "size_bytes": 2,
+            "last_modified": "2024-10-26T23:32:10.231412",
+            "created": "2024-10-26T23:32:10.231412",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "required-server-files.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/required-server-files.json",
+          "metadata": {
+            "size_bytes": 5331,
+            "last_modified": "2024-10-26T23:32:10.495374",
+            "created": "2024-10-26T23:32:10.495374",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "routes-manifest.json",
+          "type": "file",
+          "extension": "json",
+          "relative_path": ".next/routes-manifest.json",
+          "metadata": {
+            "size_bytes": 1401,
+            "last_modified": "2024-10-26T23:32:10.493081",
+            "created": "2024-10-26T23:32:10.493081",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "server",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "chunks",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "859.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/server/chunks/859.js",
+                  "metadata": {
+                    "size_bytes": 33649,
+                    "last_modified": "2024-10-26T23:32:09.610088",
+                    "created": "2024-10-26T23:32:09.610088",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "910.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/server/chunks/910.js",
+                  "metadata": {
+                    "size_bytes": 79672,
+                    "last_modified": "2024-10-26T23:32:09.610173",
+                    "created": "2024-10-26T23:32:09.610173",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "font-manifest.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/chunks/font-manifest.json",
+                  "metadata": {
+                    "size_bytes": 2,
+                    "last_modified": "2024-10-26T23:32:09.610065",
+                    "created": "2024-10-26T23:32:09.610065",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "font-manifest.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": ".next/server/font-manifest.json",
+              "metadata": {
+                "size_bytes": 2,
+                "last_modified": "2024-10-26T23:32:09.610690",
+                "created": "2024-10-26T23:32:09.610690",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "functions-config-manifest.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": ".next/server/functions-config-manifest.json",
+              "metadata": {
+                "size_bytes": 47,
+                "last_modified": "2024-10-26T23:32:10.491576",
+                "created": "2024-10-26T23:32:10.491576",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "middleware-build-manifest.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": ".next/server/middleware-build-manifest.js",
+              "metadata": {
+                "size_bytes": 1381,
+                "last_modified": "2024-10-26T23:32:10.231782",
+                "created": "2024-10-26T23:32:10.231782",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "middleware-manifest.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": ".next/server/middleware-manifest.json",
+              "metadata": {
+                "size_bytes": 83,
+                "last_modified": "2024-10-26T23:32:09.764358",
+                "created": "2024-10-26T23:32:09.764358",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "middleware-react-loadable-manifest.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": ".next/server/middleware-react-loadable-manifest.js",
+              "metadata": {
+                "size_bytes": 36,
+                "last_modified": "2024-10-26T23:32:10.231770",
+                "created": "2024-10-26T23:32:10.231770",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "next-font-manifest.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": ".next/server/next-font-manifest.js",
+              "metadata": {
+                "size_bytes": 106,
+                "last_modified": "2024-10-26T23:32:10.231749",
+                "created": "2024-10-26T23:32:10.231749",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "next-font-manifest.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": ".next/server/next-font-manifest.json",
+              "metadata": {
+                "size_bytes": 77,
+                "last_modified": "2024-10-26T23:32:10.231821",
+                "created": "2024-10-26T23:32:10.231821",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "pages",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "404.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": ".next/server/pages/404.html",
+                  "metadata": {
+                    "size_bytes": 3348,
+                    "last_modified": "2024-10-26T23:32:10.761062",
+                    "created": "2024-10-26T23:32:10.826068",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "404.js.nft.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/pages/404.js.nft.json",
+                  "metadata": {
+                    "size_bytes": 109,
+                    "last_modified": "2024-10-26T23:32:09.611202",
+                    "created": "2024-10-26T23:32:09.611202",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "500.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": ".next/server/pages/500.html",
+                  "metadata": {
+                    "size_bytes": 2350,
+                    "last_modified": "2024-10-26T23:32:10.664387",
+                    "created": "2024-10-26T23:32:10.811403",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_app.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/server/pages/_app.js",
+                  "metadata": {
+                    "size_bytes": 345,
+                    "last_modified": "2024-10-26T23:32:09.610735",
+                    "created": "2024-10-26T23:32:09.610735",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_app.js.nft.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/pages/_app.js.nft.json",
+                  "metadata": {
+                    "size_bytes": 568,
+                    "last_modified": "2024-10-26T23:32:13.739247",
+                    "created": "2024-10-26T23:32:13.739247",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_document.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/server/pages/_document.js",
+                  "metadata": {
+                    "size_bytes": 636,
+                    "last_modified": "2024-10-26T23:32:09.610355",
+                    "created": "2024-10-26T23:32:09.610355",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_document.js.nft.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/pages/_document.js.nft.json",
+                  "metadata": {
+                    "size_bytes": 2092,
+                    "last_modified": "2024-10-26T23:32:13.739277",
+                    "created": "2024-10-26T23:32:13.739277",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_error.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/server/pages/_error.js",
+                  "metadata": {
+                    "size_bytes": 8653,
+                    "last_modified": "2024-10-26T23:32:09.610424",
+                    "created": "2024-10-26T23:32:09.610424",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_error.js.nft.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/pages/_error.js.nft.json",
+                  "metadata": {
+                    "size_bytes": 2033,
+                    "last_modified": "2024-10-26T23:32:13.739256",
+                    "created": "2024-10-26T23:32:13.739256",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "api",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "hello.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/server/pages/api/hello.js",
+                      "metadata": {
+                        "size_bytes": 1085,
+                        "last_modified": "2024-10-26T23:32:09.610804",
+                        "created": "2024-10-26T23:32:09.610804",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "hello.js.nft.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/api/hello.js.nft.json",
+                      "metadata": {
+                        "size_bytes": 1049,
+                        "last_modified": "2024-10-26T23:32:13.739226",
+                        "created": "2024-10-26T23:32:13.739226",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "category",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "[id].js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/server/pages/category/[id].js",
+                      "metadata": {
+                        "size_bytes": 7278,
+                        "last_modified": "2024-10-26T23:32:09.610777",
+                        "created": "2024-10-26T23:32:09.610777",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "[id].js.nft.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/[id].js.nft.json",
+                      "metadata": {
+                        "size_bytes": 3592,
+                        "last_modified": "2024-10-26T23:32:13.739282",
+                        "created": "2024-10-26T23:32:13.739282",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "infrastructure.html",
+                      "type": "file",
+                      "extension": "html",
+                      "relative_path": ".next/server/pages/category/infrastructure.html",
+                      "metadata": {
+                        "size_bytes": 13348,
+                        "last_modified": "2024-10-26T23:32:10.763339",
+                        "created": "2024-10-26T23:32:10.831316",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "infrastructure.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/infrastructure.json",
+                      "metadata": {
+                        "size_bytes": 3811,
+                        "last_modified": "2024-10-26T23:32:10.762773",
+                        "created": "2024-10-26T23:32:10.836083",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "market-data.html",
+                      "type": "file",
+                      "extension": "html",
+                      "relative_path": ".next/server/pages/category/market-data.html",
+                      "metadata": {
+                        "size_bytes": 11291,
+                        "last_modified": "2024-10-26T23:32:10.761635",
+                        "created": "2024-10-26T23:32:10.848811",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "market-data.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/market-data.json",
+                      "metadata": {
+                        "size_bytes": 3155,
+                        "last_modified": "2024-10-26T23:32:10.761110",
+                        "created": "2024-10-26T23:32:10.857208",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "portfolio.html",
+                      "type": "file",
+                      "extension": "html",
+                      "relative_path": ".next/server/pages/category/portfolio.html",
+                      "metadata": {
+                        "size_bytes": 13247,
+                        "last_modified": "2024-10-26T23:32:10.684208",
+                        "created": "2024-10-26T23:32:10.864056",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "portfolio.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/portfolio.json",
+                      "metadata": {
+                        "size_bytes": 3730,
+                        "last_modified": "2024-10-26T23:32:10.683268",
+                        "created": "2024-10-26T23:32:10.876097",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "research.html",
+                      "type": "file",
+                      "extension": "html",
+                      "relative_path": ".next/server/pages/category/research.html",
+                      "metadata": {
+                        "size_bytes": 13526,
+                        "last_modified": "2024-10-26T23:32:10.696018",
+                        "created": "2024-10-26T23:32:10.882784",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "research.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/research.json",
+                      "metadata": {
+                        "size_bytes": 4019,
+                        "last_modified": "2024-10-26T23:32:10.694849",
+                        "created": "2024-10-26T23:32:11.051535",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "trading-tools.html",
+                      "type": "file",
+                      "extension": "html",
+                      "relative_path": ".next/server/pages/category/trading-tools.html",
+                      "metadata": {
+                        "size_bytes": 13199,
+                        "last_modified": "2024-10-26T23:32:10.678967",
+                        "created": "2024-10-26T23:32:11.060500",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "trading-tools.json",
+                      "type": "file",
+                      "extension": "json",
+                      "relative_path": ".next/server/pages/category/trading-tools.json",
+                      "metadata": {
+                        "size_bytes": 4394,
+                        "last_modified": "2024-10-26T23:32:10.675495",
+                        "created": "2024-10-26T23:32:11.216765",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": ".next/server/pages/index.html",
+                  "metadata": {
+                    "size_bytes": 10570,
+                    "last_modified": "2024-10-26T23:32:10.765134",
+                    "created": "2024-10-26T23:32:10.820689",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "index.js.nft.json",
+                  "type": "file",
+                  "extension": "json",
+                  "relative_path": ".next/server/pages/index.js.nft.json",
+                  "metadata": {
+                    "size_bytes": 3224,
+                    "last_modified": "2024-10-26T23:32:13.739331",
+                    "created": "2024-10-26T23:32:13.739331",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "pages-manifest.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": ".next/server/pages-manifest.json",
+              "metadata": {
+                "size_bytes": 210,
+                "last_modified": "2024-10-26T23:32:11.252353",
+                "created": "2024-10-26T23:32:11.252353",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "webpack-api-runtime.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": ".next/server/webpack-api-runtime.js",
+              "metadata": {
+                "size_bytes": 946,
+                "last_modified": "2024-10-26T23:32:09.610633",
+                "created": "2024-10-26T23:32:09.610633",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "webpack-runtime.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": ".next/server/webpack-runtime.js",
+              "metadata": {
+                "size_bytes": 1027,
+                "last_modified": "2024-10-26T23:32:09.610621",
+                "created": "2024-10-26T23:32:09.610621",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "static",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "_D79glfeh-SGTscX3kLoq",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "_buildManifest.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/_D79glfeh-SGTscX3kLoq/_buildManifest.js",
+                  "metadata": {
+                    "size_bytes": 502,
+                    "last_modified": "2024-10-26T23:32:10.232273",
+                    "created": "2024-10-26T23:32:10.232273",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "_ssgManifest.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/_D79glfeh-SGTscX3kLoq/_ssgManifest.js",
+                  "metadata": {
+                    "size_bytes": 106,
+                    "last_modified": "2024-10-26T23:32:11.275218",
+                    "created": "2024-10-26T23:32:11.275218",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "chunks",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "814-dd171c1794f40122.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/chunks/814-dd171c1794f40122.js",
+                  "metadata": {
+                    "size_bytes": 6546,
+                    "last_modified": "2024-10-26T23:32:10.232801",
+                    "created": "2024-10-26T23:32:10.232801",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "framework-4ea1aac635d1fd2e.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/chunks/framework-4ea1aac635d1fd2e.js",
+                  "metadata": {
+                    "size_bytes": 140936,
+                    "last_modified": "2024-10-26T23:32:10.232776",
+                    "created": "2024-10-26T23:32:10.232776",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "main-41a9ee3ebe735abe.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/chunks/main-41a9ee3ebe735abe.js",
+                  "metadata": {
+                    "size_bytes": 109532,
+                    "last_modified": "2024-10-26T23:32:10.232238",
+                    "created": "2024-10-26T23:32:10.232238",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "pages",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "404-54a3b62e0b431d0e.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/static/chunks/pages/404-54a3b62e0b431d0e.js",
+                      "metadata": {
+                        "size_bytes": 2984,
+                        "last_modified": "2024-10-26T23:32:10.232496",
+                        "created": "2024-10-26T23:32:10.232496",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "_app-8037b8dd0a48781d.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/static/chunks/pages/_app-8037b8dd0a48781d.js",
+                      "metadata": {
+                        "size_bytes": 471,
+                        "last_modified": "2024-10-26T23:32:10.232543",
+                        "created": "2024-10-26T23:32:10.232543",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "_error-ee5b5fb91d29d86f.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/static/chunks/pages/_error-ee5b5fb91d29d86f.js",
+                      "metadata": {
+                        "size_bytes": 247,
+                        "last_modified": "2024-10-26T23:32:10.232321",
+                        "created": "2024-10-26T23:32:10.232321",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "category",
+                      "type": "directory",
+                      "contents": [
+                        {
+                          "name": "[id]-7383249eae601a70.js",
+                          "type": "file",
+                          "extension": "js",
+                          "relative_path": ".next/static/chunks/pages/category/[id]-7383249eae601a70.js",
+                          "metadata": {
+                            "size_bytes": 5128,
+                            "last_modified": "2024-10-26T23:32:10.232628",
+                            "created": "2024-10-26T23:32:10.232628",
+                            "is_binary": false
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "index-766813cae07a51e5.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": ".next/static/chunks/pages/index-766813cae07a51e5.js",
+                      "metadata": {
+                        "size_bytes": 8629,
+                        "last_modified": "2024-10-26T23:32:10.232453",
+                        "created": "2024-10-26T23:32:10.232453",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "polyfills-c67a75d1b6f99dc8.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+                  "metadata": {
+                    "size_bytes": 91460,
+                    "last_modified": "2024-10-26T23:32:10.232124",
+                    "created": "2024-10-26T23:32:10.232124",
+                    "is_binary": false
+                  }
+                },
+                {
+                  "name": "webpack-8fa1640cc84ba8fe.js",
+                  "type": "file",
+                  "extension": "js",
+                  "relative_path": ".next/static/chunks/webpack-8fa1640cc84ba8fe.js",
+                  "metadata": {
+                    "size_bytes": 1430,
+                    "last_modified": "2024-10-26T23:32:10.232728",
+                    "created": "2024-10-26T23:32:10.232728",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "css",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "0fedb8b25b0daa19.css",
+                  "type": "file",
+                  "extension": "css",
+                  "relative_path": ".next/static/css/0fedb8b25b0daa19.css",
+                  "metadata": {
+                    "size_bytes": 190,
+                    "last_modified": "2024-10-26T23:32:10.232687",
+                    "created": "2024-10-26T23:32:10.232687",
+                    "is_binary": false
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "trace",
+          "type": "file",
+          "extension": null,
+          "relative_path": ".next/trace",
+          "metadata": {
+            "size_bytes": 178837,
+            "last_modified": "2024-10-26T23:32:13.750835",
+            "created": "2024-10-26T23:32:13.750835",
+            "is_binary": false
+          }
+        }
+      ]
+    },
+    {
+      "name": ".npmrc",
+      "type": "file",
+      "extension": null,
+      "relative_path": ".npmrc",
+      "metadata": {
+        "size_bytes": 46,
+        "last_modified": "2024-10-26T22:42:57.594978",
+        "created": "2024-10-26T22:42:57.594978",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "README.md",
+      "type": "file",
+      "extension": "md",
+      "relative_path": "README.md",
+      "metadata": {
+        "size_bytes": 1900,
+        "last_modified": "2024-10-26T21:20:54.150867",
+        "created": "2024-10-26T21:20:54.150867",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "netlify.toml",
+      "type": "file",
+      "extension": "toml",
+      "relative_path": "netlify.toml",
+      "metadata": {
+        "size_bytes": 737,
+        "last_modified": "2024-10-26T23:22:30.819557",
+        "created": "2024-10-26T23:22:30.819557",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "next-env.d.ts",
+      "type": "file",
+      "extension": "ts",
+      "relative_path": "next-env.d.ts",
+      "metadata": {
+        "size_bytes": 201,
+        "last_modified": "2024-10-26T22:55:03.347187",
+        "created": "2024-10-26T22:55:03.347187",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "next.config.js",
+      "type": "file",
+      "extension": "js",
+      "relative_path": "next.config.js",
+      "metadata": {
+        "size_bytes": 278,
+        "last_modified": "2024-10-26T23:21:46.207524",
+        "created": "2024-10-26T23:21:46.207524",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "node_modules",
+      "type": "directory",
+      "contents": []
+    },
+    {
+      "name": "out",
+      "type": "directory",
+      "contents": [
+        {
+          "name": "404",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "index.html",
+              "type": "file",
+              "extension": "html",
+              "relative_path": "out/404/index.html",
+              "metadata": {
+                "size_bytes": 3348,
+                "last_modified": "2024-10-26T23:32:12.582869",
+                "created": "2024-10-26T23:32:12.582869",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "404.html",
+          "type": "file",
+          "extension": "html",
+          "relative_path": "out/404.html",
+          "metadata": {
+            "size_bytes": 3348,
+            "last_modified": "2024-10-26T23:32:12.582355",
+            "created": "2024-10-26T23:32:12.582355",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "_document.tsx",
+          "type": "file",
+          "extension": "tsx",
+          "relative_path": "out/_document.tsx",
+          "metadata": {
+            "size_bytes": 335,
+            "last_modified": "2024-10-26T23:32:12.364755",
+            "created": "2024-10-26T23:32:12.364755",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "_headers",
+          "type": "file",
+          "extension": null,
+          "relative_path": "out/_headers",
+          "metadata": {
+            "size_bytes": 118,
+            "last_modified": "2024-10-26T23:32:12.364963",
+            "created": "2024-10-26T23:32:12.364963",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "_next",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "_D79glfeh-SGTscX3kLoq",
+              "type": "directory",
+              "contents": []
+            },
+            {
+              "name": "data",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "_D79glfeh-SGTscX3kLoq",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "category",
+                      "type": "directory",
+                      "contents": [
+                        {
+                          "name": "infrastructure.json",
+                          "type": "file",
+                          "extension": "json",
+                          "relative_path": "out/_next/data/_D79glfeh-SGTscX3kLoq/category/infrastructure.json",
+                          "metadata": {
+                            "size_bytes": 3811,
+                            "last_modified": "2024-10-26T23:32:12.618539",
+                            "created": "2024-10-26T23:32:12.618539",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "market-data.json",
+                          "type": "file",
+                          "extension": "json",
+                          "relative_path": "out/_next/data/_D79glfeh-SGTscX3kLoq/category/market-data.json",
+                          "metadata": {
+                            "size_bytes": 3155,
+                            "last_modified": "2024-10-26T23:32:12.618339",
+                            "created": "2024-10-26T23:32:12.618339",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "portfolio.json",
+                          "type": "file",
+                          "extension": "json",
+                          "relative_path": "out/_next/data/_D79glfeh-SGTscX3kLoq/category/portfolio.json",
+                          "metadata": {
+                            "size_bytes": 3730,
+                            "last_modified": "2024-10-26T23:32:12.617253",
+                            "created": "2024-10-26T23:32:12.617253",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "research.json",
+                          "type": "file",
+                          "extension": "json",
+                          "relative_path": "out/_next/data/_D79glfeh-SGTscX3kLoq/category/research.json",
+                          "metadata": {
+                            "size_bytes": 4019,
+                            "last_modified": "2024-10-26T23:32:12.617448",
+                            "created": "2024-10-26T23:32:12.617448",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "trading-tools.json",
+                          "type": "file",
+                          "extension": "json",
+                          "relative_path": "out/_next/data/_D79glfeh-SGTscX3kLoq/category/trading-tools.json",
+                          "metadata": {
+                            "size_bytes": 4394,
+                            "last_modified": "2024-10-26T23:32:12.614679",
+                            "created": "2024-10-26T23:32:12.614679",
+                            "is_binary": false
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "static",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "_D79glfeh-SGTscX3kLoq",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "_buildManifest.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/_D79glfeh-SGTscX3kLoq/_buildManifest.js",
+                      "metadata": {
+                        "size_bytes": 502,
+                        "last_modified": "2024-10-26T23:32:11.745671",
+                        "created": "2024-10-26T23:32:11.745671",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "_ssgManifest.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/_D79glfeh-SGTscX3kLoq/_ssgManifest.js",
+                      "metadata": {
+                        "size_bytes": 106,
+                        "last_modified": "2024-10-26T23:32:11.745663",
+                        "created": "2024-10-26T23:32:11.745663",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "chunks",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "814-dd171c1794f40122.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/chunks/814-dd171c1794f40122.js",
+                      "metadata": {
+                        "size_bytes": 6546,
+                        "last_modified": "2024-10-26T23:32:11.745826",
+                        "created": "2024-10-26T23:32:11.745826",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "framework-4ea1aac635d1fd2e.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/chunks/framework-4ea1aac635d1fd2e.js",
+                      "metadata": {
+                        "size_bytes": 140936,
+                        "last_modified": "2024-10-26T23:32:11.746314",
+                        "created": "2024-10-26T23:32:11.746314",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "main-41a9ee3ebe735abe.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/chunks/main-41a9ee3ebe735abe.js",
+                      "metadata": {
+                        "size_bytes": 109532,
+                        "last_modified": "2024-10-26T23:32:11.746399",
+                        "created": "2024-10-26T23:32:11.746399",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "pages",
+                      "type": "directory",
+                      "contents": [
+                        {
+                          "name": "404-54a3b62e0b431d0e.js",
+                          "type": "file",
+                          "extension": "js",
+                          "relative_path": "out/_next/static/chunks/pages/404-54a3b62e0b431d0e.js",
+                          "metadata": {
+                            "size_bytes": 2984,
+                            "last_modified": "2024-10-26T23:32:11.748204",
+                            "created": "2024-10-26T23:32:11.748204",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "_app-8037b8dd0a48781d.js",
+                          "type": "file",
+                          "extension": "js",
+                          "relative_path": "out/_next/static/chunks/pages/_app-8037b8dd0a48781d.js",
+                          "metadata": {
+                            "size_bytes": 471,
+                            "last_modified": "2024-10-26T23:32:11.748211",
+                            "created": "2024-10-26T23:32:11.748211",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "_error-ee5b5fb91d29d86f.js",
+                          "type": "file",
+                          "extension": "js",
+                          "relative_path": "out/_next/static/chunks/pages/_error-ee5b5fb91d29d86f.js",
+                          "metadata": {
+                            "size_bytes": 247,
+                            "last_modified": "2024-10-26T23:32:11.748133",
+                            "created": "2024-10-26T23:32:11.748133",
+                            "is_binary": false
+                          }
+                        },
+                        {
+                          "name": "category",
+                          "type": "directory",
+                          "contents": [
+                            {
+                              "name": "[id]-7383249eae601a70.js",
+                              "type": "file",
+                              "extension": "js",
+                              "relative_path": "out/_next/static/chunks/pages/category/[id]-7383249eae601a70.js",
+                              "metadata": {
+                                "size_bytes": 5128,
+                                "last_modified": "2024-10-26T23:32:11.749217",
+                                "created": "2024-10-26T23:32:11.749217",
+                                "is_binary": false
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "index-766813cae07a51e5.js",
+                          "type": "file",
+                          "extension": "js",
+                          "relative_path": "out/_next/static/chunks/pages/index-766813cae07a51e5.js",
+                          "metadata": {
+                            "size_bytes": 8629,
+                            "last_modified": "2024-10-26T23:32:11.748275",
+                            "created": "2024-10-26T23:32:11.748275",
+                            "is_binary": false
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "polyfills-c67a75d1b6f99dc8.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+                      "metadata": {
+                        "size_bytes": 91460,
+                        "last_modified": "2024-10-26T23:32:11.746391",
+                        "created": "2024-10-26T23:32:11.746391",
+                        "is_binary": false
+                      }
+                    },
+                    {
+                      "name": "webpack-8fa1640cc84ba8fe.js",
+                      "type": "file",
+                      "extension": "js",
+                      "relative_path": "out/_next/static/chunks/webpack-8fa1640cc84ba8fe.js",
+                      "metadata": {
+                        "size_bytes": 1430,
+                        "last_modified": "2024-10-26T23:32:11.746263",
+                        "created": "2024-10-26T23:32:11.746263",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "css",
+                  "type": "directory",
+                  "contents": [
+                    {
+                      "name": "0fedb8b25b0daa19.css",
+                      "type": "file",
+                      "extension": "css",
+                      "relative_path": "out/_next/static/css/0fedb8b25b0daa19.css",
+                      "metadata": {
+                        "size_bytes": 190,
+                        "last_modified": "2024-10-26T23:32:11.745699",
+                        "created": "2024-10-26T23:32:11.745699",
+                        "is_binary": false
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "_redirects",
+          "type": "file",
+          "extension": null,
+          "relative_path": "out/_redirects",
+          "metadata": {
+            "size_bytes": 24,
+            "last_modified": "2024-10-26T23:32:12.365022",
+            "created": "2024-10-26T23:32:12.365022",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "category",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "infrastructure",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": "out/category/infrastructure/index.html",
+                  "metadata": {
+                    "size_bytes": 13348,
+                    "last_modified": "2024-10-26T23:32:12.616931",
+                    "created": "2024-10-26T23:32:12.616931",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "market-data",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": "out/category/market-data/index.html",
+                  "metadata": {
+                    "size_bytes": 11291,
+                    "last_modified": "2024-10-26T23:32:12.616836",
+                    "created": "2024-10-26T23:32:12.616836",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "portfolio",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": "out/category/portfolio/index.html",
+                  "metadata": {
+                    "size_bytes": 13247,
+                    "last_modified": "2024-10-26T23:32:12.616201",
+                    "created": "2024-10-26T23:32:12.616201",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "research",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": "out/category/research/index.html",
+                  "metadata": {
+                    "size_bytes": 13526,
+                    "last_modified": "2024-10-26T23:32:12.616404",
+                    "created": "2024-10-26T23:32:12.616404",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "trading-tools",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "index.html",
+                  "type": "file",
+                  "extension": "html",
+                  "relative_path": "out/category/trading-tools/index.html",
+                  "metadata": {
+                    "size_bytes": 13199,
+                    "last_modified": "2024-10-26T23:32:12.613094",
+                    "created": "2024-10-26T23:32:12.613094",
+                    "is_binary": false
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "favicon.ico",
+          "type": "file",
+          "extension": "ico",
+          "relative_path": "out/favicon.ico",
+          "metadata": {
+            "size_bytes": 25931,
+            "last_modified": "2024-10-26T23:32:12.365282",
+            "created": "2024-10-26T23:32:12.365282",
+            "is_binary": true
+          }
+        },
+        {
+          "name": "file.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "out/file.svg",
+          "metadata": {
+            "size_bytes": 391,
+            "last_modified": "2024-10-26T23:32:12.365077",
+            "created": "2024-10-26T23:32:12.365077",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "globe.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "out/globe.svg",
+          "metadata": {
+            "size_bytes": 1035,
+            "last_modified": "2024-10-26T23:32:12.365242",
+            "created": "2024-10-26T23:32:12.365242",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "images",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "icons",
+              "type": "directory",
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "index.html",
+          "type": "file",
+          "extension": "html",
+          "relative_path": "out/index.html",
+          "metadata": {
+            "size_bytes": 10570,
+            "last_modified": "2024-10-26T23:32:12.582441",
+            "created": "2024-10-26T23:32:12.582441",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "next.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "out/next.svg",
+          "metadata": {
+            "size_bytes": 1375,
+            "last_modified": "2024-10-26T23:32:12.365417",
+            "created": "2024-10-26T23:32:12.365417",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "vercel.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "out/vercel.svg",
+          "metadata": {
+            "size_bytes": 128,
+            "last_modified": "2024-10-26T23:32:12.365705",
+            "created": "2024-10-26T23:32:12.365705",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "window.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "out/window.svg",
+          "metadata": {
+            "size_bytes": 385,
+            "last_modified": "2024-10-26T23:32:12.365730",
+            "created": "2024-10-26T23:32:12.365730",
+            "is_binary": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "package-lock.json",
+      "type": "file",
+      "extension": "json",
+      "relative_path": "package-lock.json",
+      "metadata": {
+        "size_bytes": 189697,
+        "last_modified": "2024-10-26T23:32:03.793530",
+        "created": "2024-10-26T23:32:03.793530",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "package.json",
+      "type": "file",
+      "extension": "json",
+      "relative_path": "package.json",
+      "metadata": {
+        "size_bytes": 701,
+        "last_modified": "2024-10-26T23:31:45.840351",
+        "created": "2024-10-26T23:31:45.840351",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "postcss.config.mjs",
+      "type": "file",
+      "extension": "mjs",
+      "relative_path": "postcss.config.mjs",
+      "metadata": {
+        "size_bytes": 135,
+        "last_modified": "2024-10-26T21:20:54.152040",
+        "created": "2024-10-26T21:20:54.152040",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "project_scanner.py",
+      "type": "file",
+      "extension": "py",
+      "relative_path": "project_scanner.py",
+      "metadata": {
+        "size_bytes": 5351,
+        "last_modified": "2024-10-27T13:56:21.499825",
+        "created": "2024-10-27T13:56:50.002944",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "public",
+      "type": "directory",
+      "contents": [
+        {
+          "name": "_document.tsx",
+          "type": "file",
+          "extension": "tsx",
+          "relative_path": "public/_document.tsx",
+          "metadata": {
+            "size_bytes": 335,
+            "last_modified": "2024-10-26T23:23:35.599484",
+            "created": "2024-10-26T23:23:35.599484",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "_headers",
+          "type": "file",
+          "extension": null,
+          "relative_path": "public/_headers",
+          "metadata": {
+            "size_bytes": 118,
+            "last_modified": "2024-10-26T23:22:24.833069",
+            "created": "2024-10-26T23:22:24.833069",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "_redirects",
+          "type": "file",
+          "extension": null,
+          "relative_path": "public/_redirects",
+          "metadata": {
+            "size_bytes": 24,
+            "last_modified": "2024-10-26T23:14:01.224303",
+            "created": "2024-10-26T23:14:01.224303",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "favicon.ico",
+          "type": "file",
+          "extension": "ico",
+          "relative_path": "public/favicon.ico",
+          "metadata": {
+            "size_bytes": 25931,
+            "last_modified": "2024-10-26T21:20:54.150935",
+            "created": "2024-10-26T21:20:54.150935",
+            "is_binary": true
+          }
+        },
+        {
+          "name": "file.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "public/file.svg",
+          "metadata": {
+            "size_bytes": 391,
+            "last_modified": "2024-10-26T21:20:54.152588",
+            "created": "2024-10-26T21:20:54.152588",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "globe.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "public/globe.svg",
+          "metadata": {
+            "size_bytes": 1035,
+            "last_modified": "2024-10-26T21:20:54.153280",
+            "created": "2024-10-26T21:20:54.153280",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "images",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "icons",
+              "type": "directory",
+              "contents": []
+            }
+          ]
+        },
+        {
+          "name": "next.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "public/next.svg",
+          "metadata": {
+            "size_bytes": 1375,
+            "last_modified": "2024-10-26T21:20:54.153298",
+            "created": "2024-10-26T21:20:54.153298",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "vercel.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "public/vercel.svg",
+          "metadata": {
+            "size_bytes": 128,
+            "last_modified": "2024-10-26T21:20:54.153579",
+            "created": "2024-10-26T21:20:54.153579",
+            "is_binary": false
+          }
+        },
+        {
+          "name": "window.svg",
+          "type": "file",
+          "extension": "svg",
+          "relative_path": "public/window.svg",
+          "metadata": {
+            "size_bytes": 385,
+            "last_modified": "2024-10-26T21:20:54.153667",
+            "created": "2024-10-26T21:20:54.153667",
+            "is_binary": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "type": "directory",
+      "contents": [
+        {
+          "name": ".DS_Store",
+          "type": "file",
+          "extension": null,
+          "relative_path": "src/.DS_Store",
+          "metadata": {
+            "size_bytes": 6148,
+            "last_modified": "2024-10-26T22:17:15.819438",
+            "created": "2024-10-26T22:17:15.819438",
+            "is_binary": true
+          }
+        },
+        {
+          "name": "components",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "CategoryCard.jsx",
+              "type": "file",
+              "extension": "jsx",
+              "relative_path": "src/components/CategoryCard.jsx",
+              "metadata": {
+                "size_bytes": 1389,
+                "last_modified": "2024-10-26T21:28:49.099208",
+                "created": "2024-10-26T21:28:49.099208",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "Layout.tsx",
+              "type": "file",
+              "extension": "tsx",
+              "relative_path": "src/components/Layout.tsx",
+              "metadata": {
+                "size_bytes": 2707,
+                "last_modified": "2024-10-26T23:22:47.033957",
+                "created": "2024-10-26T23:22:47.033957",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "TableView.jsx",
+              "type": "file",
+              "extension": "jsx",
+              "relative_path": "src/components/TableView.jsx",
+              "metadata": {
+                "size_bytes": 2634,
+                "last_modified": "2024-10-26T23:26:25.434020",
+                "created": "2024-10-26T23:26:25.434020",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "data",
+          "type": "directory",
+          "contents": [
+            {
+              "name": ".DS_Store",
+              "type": "file",
+              "extension": null,
+              "relative_path": "src/data/.DS_Store",
+              "metadata": {
+                "size_bytes": 6148,
+                "last_modified": "2024-10-26T21:34:11.520576",
+                "created": "2024-10-26T21:34:11.520576",
+                "is_binary": true
+              }
+            },
+            {
+              "name": "infrastructure.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": "src/data/infrastructure.json",
+              "metadata": {
+                "size_bytes": 6784,
+                "last_modified": "2024-10-26T22:09:34.766070",
+                "created": "2024-10-26T22:09:34.766070",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "market-data.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": "src/data/market-data.json",
+              "metadata": {
+                "size_bytes": 5409,
+                "last_modified": "2024-10-26T22:08:28.698382",
+                "created": "2024-10-26T22:08:28.698382",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "portfolio.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": "src/data/portfolio.json",
+              "metadata": {
+                "size_bytes": 6393,
+                "last_modified": "2024-10-26T22:10:37.812648",
+                "created": "2024-10-26T22:10:37.812648",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "research.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": "src/data/research.json",
+              "metadata": {
+                "size_bytes": 6998,
+                "last_modified": "2024-10-26T22:11:24.970021",
+                "created": "2024-10-26T22:11:24.970021",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "trading-tools.json",
+              "type": "file",
+              "extension": "json",
+              "relative_path": "src/data/trading-tools.json",
+              "metadata": {
+                "size_bytes": 7545,
+                "last_modified": "2024-10-26T22:12:14.986541",
+                "created": "2024-10-26T22:12:14.986541",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "pages",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "404.tsx",
+              "type": "file",
+              "extension": "tsx",
+              "relative_path": "src/pages/404.tsx",
+              "metadata": {
+                "size_bytes": 709,
+                "last_modified": "2024-10-26T23:17:12.327661",
+                "created": "2024-10-26T23:17:12.327661",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "_app.tsx",
+              "type": "file",
+              "extension": "tsx",
+              "relative_path": "src/pages/_app.tsx",
+              "metadata": {
+                "size_bytes": 182,
+                "last_modified": "2024-10-26T23:12:57.712391",
+                "created": "2024-10-26T23:12:57.712391",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "_document.tsx",
+              "type": "file",
+              "extension": "tsx",
+              "relative_path": "src/pages/_document.tsx",
+              "metadata": {
+                "size_bytes": 257,
+                "last_modified": "2024-10-26T21:20:54.152449",
+                "created": "2024-10-26T21:20:54.152449",
+                "is_binary": false
+              }
+            },
+            {
+              "name": "api",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "hello.ts",
+                  "type": "file",
+                  "extension": "ts",
+                  "relative_path": "src/pages/api/hello.ts",
+                  "metadata": {
+                    "size_bytes": 312,
+                    "last_modified": "2024-10-26T21:20:54.152616",
+                    "created": "2024-10-26T21:20:54.152616",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "category",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "[id].tsx",
+                  "type": "file",
+                  "extension": "tsx",
+                  "relative_path": "src/pages/category/[id].tsx",
+                  "metadata": {
+                    "size_bytes": 1670,
+                    "last_modified": "2024-10-26T22:55:46.835834",
+                    "created": "2024-10-26T22:55:56.802571",
+                    "is_binary": false
+                  }
+                }
+              ]
+            },
+            {
+              "name": "fonts",
+              "type": "directory",
+              "contents": [
+                {
+                  "name": "GeistMonoVF.woff",
+                  "type": "file",
+                  "extension": "woff",
+                  "relative_path": "src/pages/fonts/GeistMonoVF.woff",
+                  "metadata": {
+                    "size_bytes": 67864,
+                    "last_modified": "2024-10-26T21:20:54.152860",
+                    "created": "2024-10-26T21:20:54.152860",
+                    "is_binary": true
+                  }
+                },
+                {
+                  "name": "GeistVF.woff",
+                  "type": "file",
+                  "extension": "woff",
+                  "relative_path": "src/pages/fonts/GeistVF.woff",
+                  "metadata": {
+                    "size_bytes": 66268,
+                    "last_modified": "2024-10-26T21:20:54.153808",
+                    "created": "2024-10-26T21:20:54.153808",
+                    "is_binary": true
+                  }
+                }
+              ]
+            },
+            {
+              "name": "index.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": "src/pages/index.js",
+              "metadata": {
+                "size_bytes": 2305,
+                "last_modified": "2024-10-26T21:29:03.348998",
+                "created": "2024-10-26T21:29:03.348998",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "styles",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "globals.css",
+              "type": "file",
+              "extension": "css",
+              "relative_path": "src/styles/globals.css",
+              "metadata": {
+                "size_bytes": 231,
+                "last_modified": "2024-10-26T23:27:25.097911",
+                "created": "2024-10-26T23:27:25.097911",
+                "is_binary": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "utils",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "dataUtils.js",
+              "type": "file",
+              "extension": "js",
+              "relative_path": "src/utils/dataUtils.js",
+              "metadata": {
+                "size_bytes": 872,
+                "last_modified": "2024-10-26T22:14:53.507345",
+                "created": "2024-10-26T22:14:53.507345",
+                "is_binary": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tailwind.config.ts",
+      "type": "file",
+      "extension": "ts",
+      "relative_path": "tailwind.config.ts",
+      "metadata": {
+        "size_bytes": 407,
+        "last_modified": "2024-10-26T21:20:54.156600",
+        "created": "2024-10-26T21:20:54.156600",
+        "is_binary": false
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "type": "file",
+      "extension": "json",
+      "relative_path": "tsconfig.json",
+      "metadata": {
+        "size_bytes": 576,
+        "last_modified": "2024-10-26T22:52:18.039874",
+        "created": "2024-10-26T22:52:18.039874",
+        "is_binary": false
+      }
+    }
+  ],
+  "scan_metadata": {
+    "timestamp": "2024-10-27T13:57:07.136702",
+    "ignore_patterns": [
+      ".git/*",
+      "__pycache__/*",
+      "*.pyc",
+      "venv/*",
+      "node_modules/*"
+    ],
+    "root_directory": "/Users/amiralibehboudi/Zed Projects/Quantoshi Lab/quantoshi-directory"
+  }
+}
