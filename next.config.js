@@ -4,8 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: "./", // Add this line
+  // Remove basePath and assetPrefix if they exist
   trailingSlash: true,
   reactStrictMode: true,
 };
+
 module.exports = nextConfig;
